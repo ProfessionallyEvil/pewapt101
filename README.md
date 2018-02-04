@@ -6,9 +6,9 @@ And in that mindset we want to announce our latest work on helping the industry 
 
 So here is the plan:
 
-- Release the slides without the exercises (TODAY!<grin>)
-- Determine a format for the course that will allow many people to contribute
-- Create a Git repo for this course
+- Release the slides without the exercises (DONE)
+- Determine a format for the course that will allow many people to contribute (DONE)
+- Create a Git repo for this course [PEWAPT repo(https://github.com/ProfessionallyEvil/pewapt101) (DONE)
 - Release the slides and exercises via this Git repo
   - The exercises may take a bit of time as they will first require significant updates
 - Release the exercise targets and virtual machines
