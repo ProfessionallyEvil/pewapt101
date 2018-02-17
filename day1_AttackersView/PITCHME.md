@@ -1,6 +1,6 @@
 # Day 1 Attackers View of the Web
 
-## Professionally Evil Web Application Penetration Testing 101.1
+### Professionally Evil Web Application Penetration Testing 101.1
 
 Copyright 2014, Secure Ideas
 Version 1Q14
@@ -10,7 +10,7 @@ Web applications are a major point of vulnerability in organizations today. Web 
 In the next few days, you'll learn the art of exploiting web applications, so you can find flaws in your enterprise's web apps before the bad guys do. Through detailed, hands-on exercises and these materials, you will be taught the four-step process for web application penetration testing. You will inject SQL into back-end databases, learning how attackers exfiltrate sensitive data. You will utilize Cross Site Scripting attacks to dominate a target infrastructure in our unique hands-on laboratory environment. And, you will explore various other web app vulnerabilities in-depth, with tried-and-true techniques for finding them using a structured testing regimen. As well as the vulnerabilities, you will learn the tools and methods of the attacker, so that you can be a powerful defender.
 ---
 
-# Lab Set up
+## Lab Set up
 
 - You will receive 2 DVDs
 - They contain two zip files and a readme
