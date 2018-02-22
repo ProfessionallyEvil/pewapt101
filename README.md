@@ -1,5 +1,7 @@
 # Professionally Evil Web Application Penetration Testing 101 Course
 
+[![Join the chat at https://gitter.im/ProfessionallyEvil/pewapt101](https://badges.gitter.im/ProfessionallyEvil/pewapt101.svg)](https://gitter.im/ProfessionallyEvil/pewapt101?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Since our founding in 2010 Secure Ideas has always tried to focus on education and increasing the amount of available knowledge in our field.   As such we have contributed to courses, presented at conferences around the world and contributed to open source projects.  Two years ago we announced our free training for veterans and first responders.  Last year we followed up with our free Scout security services for non-profit charities. And to be completely honest, we are pretty proud of what we have been able to do and to thank everyone for supporting us and helping make us better.
 
 And in that mindset we want to announce our latest work on helping the industry build a body of knowledge.  A number of years ago we built a class that was used in a large number of training courses and made up a major part of a curriculum. In 2014 Secure Ideas wrote the last version of that.  We want to release this to the public so that anyone who wants to go through the materials is able to learn how to do web penetration testing.  And we want people to help us make it better.
